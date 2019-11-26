@@ -1,0 +1,40 @@
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\YouTube Mp3 Downloader.exe.config
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\YouTube Mp3 Downloader.exe
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\YouTube Mp3 Downloader.pdb
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\libvideo.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\MediaToolkit.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.AppContext.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Console.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.IO.Compression.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.IO.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Linq.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Net.Http.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Net.Sockets.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Reflection.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Runtime.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\obj\Debug\YouTube Mp3 Downloader.exe.config
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\obj\Debug\YouTube_Mp3_Downloader.Form1.resources
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\obj\Debug\YouTube_Mp3_Downloader.Properties.Resources.resources
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\obj\Debug\YoutubeDownloader.csproj.GenerateResource.cache
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\obj\Debug\YoutubeDownloader.csproj.CopyComplete
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\obj\Debug\YouTube Mp3 Downloader.exe
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\obj\Debug\YouTube Mp3 Downloader.pdb
+C:\Users\Pedro\Downloads\YouTube Mp3 Downloader\YouTube Mp3 Downloader\YouTube Mp3 Downloader\obj\Debug\YoutubeDownloader.csprojAssemblyReference.cache
